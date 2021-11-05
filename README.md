@@ -34,4 +34,4 @@
 
 # Contact Me
 
-<img src="https://img.shields.io/badge/Zycho Dev-blue.svg?logo=telegram">
+[![Telegram](https://img.shields.io/badge/Zycho%20Dev-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Zycho_66)&nbsp;
