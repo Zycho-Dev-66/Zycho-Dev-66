@@ -25,3 +25,8 @@
 [![Logo](https://telegra.ph/file/8518c981780d27f111e19.jpg)](https://t.me/Zycho_66)
 
 <br>
+
+#Github Stats
+
+- [![Profile views](https://gpvc.arturio.dev/Zycho-Dev-66)](https://github.com/Zycho-Dev-66)
+- [![GitHub followers](https://img.shields.io/github/followers/Zycho-Dev-66.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Zycho-Dev-66?tab=followers)
