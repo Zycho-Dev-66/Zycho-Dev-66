@@ -37,4 +37,4 @@
 [![Telegram](https://img.shields.io/badge/Zycho%20Dev-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Zycho_66)&nbsp;
 [![Intagram](https://img.shields.io/badge/Zycho%20Dev-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com/zycho_66)&nbsp;
 [![Github](https://img.shields.io/badge/Zycho%20Dev-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Zycho-Dev-66)&nbsp;
-[![Youtube](https://img.shields.io/badge/Zyntax%20YouTube-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://youtube.com/channel/UCKgIYBkFM4J_bWCIY77XXVpA)
+[![Youtube](https://img.shields.io/badge/Zyntax%20YouTube-E6190D?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCKgIYBkFM4J_bWClY7XXVpA)
