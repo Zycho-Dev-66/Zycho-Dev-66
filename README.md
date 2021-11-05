@@ -30,6 +30,8 @@
 - [![Profile views](https://gpvc.arturio.dev/Zycho-Dev-66)](https://github.com/Zycho-Dev-66)
 - [![GitHub followers](https://img.shields.io/github/followers/Zycho-Dev-66.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Zycho-Dev-66?tab=followers)
 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Zycho-Dev-66&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=false&hide_title=true&hide_border=true" /></div>
+
 # Contact Me
 
 <img src="https://img.shields.io/badge/Zycho Dev-blue.svg?logo=telegram">
