@@ -35,3 +35,5 @@
 # Contact Me
 
 [![Telegram](https://img.shields.io/badge/Zycho%20Dev-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Zycho_66)&nbsp;
+[![Intagram](https://img.shields.io/badge/Zycho%20Dev-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com/_V_2002_SE)&nbsp;
+[![Github](https://img.shields.io/badge/Zycho%20Dev-000000?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=github)](https://github.com/Zycho-Dev-66)
