@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning Javascript...
 - ⚡ I’m looking to collaborate on Python projects...
 - 💬 Ask me about linux and pentesting...
-- 📫 How to reach me: @Zycho_66 on Telegram...
-
+- 📫 How to reach me: <a href="https://t.me/Zycho_66"> @Zycho_66 </a> on Telegram...
 - 🎧 Favourite Line 😅 LOL   ``` I'm all right bcz I love the way it hurts 😇💔 ```  🎧
 
 **My Personal Life**
@@ -18,7 +17,7 @@
 - 📌 16 yrs old
 - 📌 From SriLanka 
 - 📌 Love Python & Linux
-- 📌 Contact Me : <a href="https://t.me/Zycho_66"><img src="https://img.shields.io/badge/Zycho Dev-blue.svg?logo=telegram"></a>
+- 📌 Contact Me : <a href="https://t.me/Zycho_66"> @Zycho_66 </a> on Telegram
 
 <br>
 
@@ -26,7 +25,11 @@
 
 <br>
 
-#Github Stats
+# My Github Stats
 
 - [![Profile views](https://gpvc.arturio.dev/Zycho-Dev-66)](https://github.com/Zycho-Dev-66)
 - [![GitHub followers](https://img.shields.io/github/followers/Zycho-Dev-66.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Zycho-Dev-66?tab=followers)
+
+# Contact Me
+
+<img src="https://img.shields.io/badge/Zycho Dev-blue.svg?logo=telegram">
