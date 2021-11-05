@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E62A11&lines=-%3E+Zycho+Dev;-%3E+Noob-Developer+🦾.;-%3E+Just+Starting-Off.;-%3E+Love+Python)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E62A11&lines=-%3E+Zycho+Developer;-%3E+Team+Zyntax+Official;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a Telegram Bot Project...
 - 🌱 I’m currently learning Javascript...
