@@ -34,19 +34,7 @@
 
 # Interested In
  
- ​![​JavaScript​](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-  
- ​![​Nodejs​](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
- 
- ​![​Python​](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
- 
- ​![​C++​](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
- 
- ​![​Heroku​](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) 
- 
- ​![​Docker​](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
-
- ​![​Git​](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+ ​![​JavaScript​](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp; ​![​Nodejs​](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)&nbsp; ![​Python​](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)&nbsp; ​![​C++​](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp; ![​Heroku​](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp; ​![​Docker​](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp; ![​Git​](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 # Contact Me
 
