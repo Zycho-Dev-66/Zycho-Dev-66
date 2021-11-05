@@ -7,5 +7,4 @@
 - 📫 How to reach me: @Zycho_66 on Telegram...
 
 - 🎧 Favourite Line 😅 LOL 🎧
-
-- I'm all right bcz I love the way it hurts 😇💔
+    ``` I'm all right bcz I love the way it hurts 😇💔 ```
