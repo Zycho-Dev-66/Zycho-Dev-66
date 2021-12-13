@@ -21,7 +21,7 @@
 
 <br>
 
-[![Logo](https://telegra.ph/file/8518c981780d27f111e19.jpg)](https://t.me/Zycho_66)
+[![Logo](https://telegra.ph/file/bc68d55c669267db7a0c0.jpg)](https://t.me/Zycho_66)
 
 <br>
 
