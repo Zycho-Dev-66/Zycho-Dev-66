@@ -4,19 +4,30 @@
 
 **My Life On Github**
 
-- 🔭 I’m currently working on a Telegram Bot Project...
-- 🌱 I’m currently learning Javascript...
+- 🔭 I’m currently AFK..
 - ⚡ I’m looking to collaborate on Python projects...
 - 💬 Ask me about linux and pentesting...
 - 📫 How to reach me: <a href="https://t.me/Zycho_66"> @Zycho_66 </a> on Telegram...
-- 🎧 Favourite Line 😅 LOL   ``` I'm all right bcz I love the way it hurts 😇💔 ```  🎧
+
+
+```python 
+
+if alive==True:
+   try:
+       love_you(♥️)
+   else:
+       die(💔)
+
+#Zycho-Dev
+
+```
 
 **My Personal Life**
 
-- 📌 Just call me Zycho
-- 📌 16 yrs old
-- 📌 From SriLanka 
-- 📌 Love Python & Linux
+- 📌 Just call me Zycho 🍁
+- 📌 16 yrs old 💡
+- 📌 From Sri Lanka 🇱🇰
+- 📌 Love Python & Linux 💻
 - 📌 Contact Me : <a href="https://t.me/Zycho_66"> @Zycho_66 </a> on Telegram
 
 <br>
